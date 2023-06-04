@@ -6,6 +6,8 @@ I have followed this https://desiprogrammer.hashnode.dev/customizing-bootstrap-w
 
 Also i have some vs code setting changed as per this https://github.com/shovoalways/Visual-Studio-Code-Customization/tree/main link intructions.
 
+Pixel perfection is the most important requiremen - You can check pixel perfection by setting window screen size to 1440. I have perfected the page size of 1440 in XD.
+
 Here us some tech stack used plugin lists:
 
 1:- Bootstrap
